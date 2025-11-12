@@ -27,6 +27,9 @@ trabaja,0,37,88.1
 trabaja,1,5,11.9
 acceso_internet,1,39,92.86
 acceso_internet,0,3,7.14
+asistencia_primaria,1,40,95.24
+asistencia_primaria,#NULL!,1,2.38
+asistencia_primaria,0,1,2.38
 sexo,1,30,71.43
 sexo,0,12,28.57
 padre_asistio_escuela,1,41,97.62

@@ -26,8 +26,11 @@ periodos_semanales_lectura,0,3,4.41
 trabaja,0,65,95.59
 acceso_internet,1,57,83.82
 acceso_internet,0,11,16.18
-asistencia_primaria,0,65,95.59
-asistencia_primaria,1,3,4.41
+asistencia_primaria,1,63,92.65
+asistencia_primaria,2,3,4.41
+asistencia_primaria,0,2,2.94
+sexo,1,40,58.82
+sexo,0,28,41.18
 padre_asistio_escuela,1,66,97.06
 padre_asistio_escuela,2,2,2.94
 grado_alcanzado_padre,3,25,36.76
