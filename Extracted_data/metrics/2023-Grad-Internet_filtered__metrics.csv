@@ -1,41 +1,39 @@
 variable,category,count,percent
-nivel_mate,2,22,40.74
-nivel_mate,1,19,35.19
-nivel_mate,3,7,12.96
-nivel_mate,4,6,11.11
-nivel_lectura,4,25,46.3
-nivel_lectura,2,12,22.22
-nivel_lectura,3,10,18.52
-nivel_lectura,1,7,12.96
-logro_mate,0,41,75.93
-logro_mate,1,13,24.07
-logro_lectura,1,35,64.81
-logro_lectura,0,19,35.19
-trabaja,0,53,98.15
-trabaja,1,1,1.85
-acceso_internet,1,53,98.15
-acceso_internet,0,1,1.85
-asistencia_primaria,2,53,98.15
-asistencia_primaria,1,1,1.85
-sexo,1,33,61.11
-sexo,0,21,38.89
-padre_asistio_escuela,2,49,90.74
-padre_asistio_escuela,1,3,5.56
-padre_asistio_escuela,.,2,3.7
-grado_alcanzado_padre,3,25,46.3
-grado_alcanzado_padre,4,19,35.19
-grado_alcanzado_padre,1,5,9.26
-grado_alcanzado_padre,2,5,9.26
-madre_asistio_escuela,2,50,92.59
-madre_asistio_escuela,1,3,5.56
-madre_asistio_escuela,0,1,1.85
-grado_alcanzado_madre,3,23,42.59
-grado_alcanzado_madre,4,16,29.63
-grado_alcanzado_madre,2,7,12.96
-grado_alcanzado_madre,1,6,11.11
-grado_alcanzado_madre,0,2,3.7
-grupo_etnico,2,49,90.74
-grupo_etnico,1,3,5.56
-grupo_etnico,3,2,3.7
-rep_primaria,0,52,96.3
-rep_primaria,1,2,3.7
+nivel_mate,debe mejorar,22,40.74
+nivel_mate,insatisfactorio,19,35.19
+nivel_mate,satisfactorio,7,12.96
+nivel_mate,excelente,6,11.11
+nivel_lectura,excelente,25,46.3
+nivel_lectura,debe mejorar,12,22.22
+nivel_lectura,satisfactorio,10,18.52
+nivel_lectura,insatisfactorio,7,12.96
+logro_mate,no logro,41,75.93
+logro_mate,logro,13,24.07
+logro_lectura,logro,35,64.81
+logro_lectura,no logro,19,35.19
+trabaja,No,53,98.15
+trabaja,Sí,1,1.85
+acceso_internet,Sí,53,98.15
+acceso_internet,No,1,1.85
+asistencia_preprimaria,Sí,1,1.85
+sexo,Masculino,33,61.11
+sexo,Fememnino,21,38.89
+padre_asistio_escuela,No sabe,49,90.74
+padre_asistio_escuela,Sí,3,5.56
+grado_alcanzado_padre,Diversificado,25,46.3
+grado_alcanzado_padre,Universidad,19,35.19
+grado_alcanzado_padre,Primaria,5,9.26
+grado_alcanzado_padre,Básicos,5,9.26
+madre_asistio_escuela,No sabe,50,92.59
+madre_asistio_escuela,Sí,3,5.56
+madre_asistio_escuela,No,1,1.85
+grado_alcanzado_madre,Diversificado,23,42.59
+grado_alcanzado_madre,Universidad,16,29.63
+grado_alcanzado_madre,Básicos,7,12.96
+grado_alcanzado_madre,Primaria,6,11.11
+grado_alcanzado_madre,No sabe / No asistió,2,3.7
+grupo_etnico,Ladino,49,90.74
+grupo_etnico,Maya,3,5.56
+grupo_etnico,Garífuna,2,3.7
+rep_primaria,No,52,96.3
+rep_primaria,Sí,2,3.7

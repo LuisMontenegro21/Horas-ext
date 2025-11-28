@@ -1,53 +1,53 @@
 variable,category,count,percent
-nivel_mate,2,27,39.71
-nivel_mate,1,17,25.0
-nivel_mate,4,14,20.59
-nivel_mate,3,10,14.71
-nivel_lectura,4,47,69.12
-nivel_lectura,2,9,13.24
-nivel_lectura,1,6,8.82
-nivel_lectura,3,6,8.82
-logro_mate,0,44,64.71
-logro_mate,1,24,35.29
-logro_lectura,1,53,77.94
-logro_lectura,0,15,22.06
-periodos_semanales_mate,5,49,72.06
-periodos_semanales_mate,6,11,16.18
-periodos_semanales_mate,4,4,5.88
-periodos_semanales_mate,3,2,2.94
-periodos_semanales_mate,7,2,2.94
-periodos_semanales_lectura,5,36,52.94
-periodos_semanales_lectura,1,9,13.24
-periodos_semanales_lectura,4,8,11.76
-periodos_semanales_lectura,2,4,5.88
-periodos_semanales_lectura,6,4,5.88
-periodos_semanales_lectura,3,4,5.88
-periodos_semanales_lectura,0,3,4.41
-trabaja,0,65,95.59
-acceso_internet,1,57,83.82
-acceso_internet,0,11,16.18
-asistencia_primaria,1,63,92.65
-asistencia_primaria,2,3,4.41
-asistencia_primaria,0,2,2.94
-sexo,1,40,58.82
-sexo,0,28,41.18
-padre_asistio_escuela,1,66,97.06
-padre_asistio_escuela,2,2,2.94
-grado_alcanzado_padre,3,25,36.76
-grado_alcanzado_padre,4,24,35.29
-grado_alcanzado_padre,5,8,11.76
-grado_alcanzado_padre,1,5,7.35
-grado_alcanzado_padre,2,4,5.88
-grado_alcanzado_padre,0,2,2.94
-madre_asistio_escuela,1,67,98.53
-madre_asistio_escuela,2,1,1.47
-grado_alcanzado_madre,4,25,36.76
-grado_alcanzado_madre,3,23,33.82
-grado_alcanzado_madre,2,7,10.29
-grado_alcanzado_madre,1,7,10.29
-grado_alcanzado_madre,5,4,5.88
-grado_alcanzado_madre,0,2,2.94
-grupo_etnico,2,67,98.53
-grupo_etnico,0,1,1.47
-rep_primaria,0,65,95.59
-rep_primaria,1,3,4.41
+nivel_mate,debe mejorar,27,39.71
+nivel_mate,insatisfactorio,17,25.0
+nivel_mate,excelente,14,20.59
+nivel_mate,satisfactorio,10,14.71
+nivel_lectura,excelente,47,69.12
+nivel_lectura,debe mejorar,9,13.24
+nivel_lectura,insatisfactorio,6,8.82
+nivel_lectura,satisfactorio,6,8.82
+logro_mate,no logro,44,64.71
+logro_mate,logro,24,35.29
+logro_lectura,logro,53,77.94
+logro_lectura,no logro,15,22.06
+periodos_semanales_mate,5 periodos,49,72.06
+periodos_semanales_mate,6 periodos,11,16.18
+periodos_semanales_mate,4 periodos,4,5.88
+periodos_semanales_mate,3 periodos,2,2.94
+periodos_semanales_mate,7 o mas,2,2.94
+periodos_semanales_lectura,5 periodos,36,52.94
+periodos_semanales_lectura,1 periodo,9,13.24
+periodos_semanales_lectura,4 periodos,8,11.76
+periodos_semanales_lectura,2 periodos,4,5.88
+periodos_semanales_lectura,6 periodos,4,5.88
+periodos_semanales_lectura,3 periodos,4,5.88
+periodos_semanales_lectura,ninguno,3,4.41
+trabaja,No,65,95.59
+trabaja,Sí,3,4.41
+acceso_internet,Sí,57,83.82
+acceso_internet,No,11,16.18
+asistencia_preprimaria,Sí,63,92.65
+asistencia_preprimaria,No,2,2.94
+sexo,Masculino,40,58.82
+sexo,Fememnino,28,41.18
+padre_asistio_escuela,Sí,66,97.06
+padre_asistio_escuela,No sabe,2,2.94
+grado_alcanzado_padre,Diversificado,25,36.76
+grado_alcanzado_padre,Universidad,24,35.29
+grado_alcanzado_padre,posgrado,8,11.76
+grado_alcanzado_padre,Primaria,5,7.35
+grado_alcanzado_padre,Básicos,4,5.88
+grado_alcanzado_padre,No sabe / No asistió,2,2.94
+madre_asistio_escuela,Sí,67,98.53
+madre_asistio_escuela,No sabe,1,1.47
+grado_alcanzado_madre,Universidad,25,36.76
+grado_alcanzado_madre,Diversificado,23,33.82
+grado_alcanzado_madre,Básicos,7,10.29
+grado_alcanzado_madre,Primaria,7,10.29
+grado_alcanzado_madre,posgrado,4,5.88
+grado_alcanzado_madre,No sabe / No asistió,2,2.94
+grupo_etnico,Ladino,67,98.53
+grupo_etnico,Sin respuesta,1,1.47
+rep_primaria,No,65,95.59
+rep_primaria,Sí,3,4.41
